@@ -1,15 +1,16 @@
 # Bitcoin_Crash_Prediction
-Forecasting of Bitcoin price
+## Forecasting of Bitcoin price
 
 Bitcoin price might fluctuate based on following datasets:
 
-Data: Twitter:
+### Data:
+     * Twitter:
      * Tweets by famous personalities (Elon Musk)
      * News - live data
      * Past price of Bitcoin
      * Fear Index (ranges from 0 to 50 ; <50 fear of loss, > 50 ppl will buy bitcoin)
       
-Data Collection possibilities:
+### Data Collection possibilities:
      * Twitter APIs
      * News APIs
      * FInancial data APIs
