@@ -14,8 +14,10 @@ Data Collection possibilities:
       News APIs
       FInancial data APIs
       Fear Index API
+      ![E2cilQWVoAAIpdA](https://user-images.githubusercontent.com/13976710/120227938-c35cf000-c267-11eb-9656-73a1eb765989.jpg)
       
-      ![image](https://user-images.githubusercontent.com/13976710/120227100-306f8600-c266-11eb-88fb-ad3b798cd6b8.png)
+
+     
       
 AWS Kinesis, save one year data in S3/HDFS/MongoDB, Data Engineering team does work here, preprocesses [Map reduce]
 
